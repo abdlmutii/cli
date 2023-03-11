@@ -34,6 +34,6 @@ Here's a screenshot of what the terminal looks like when you run `npx abdlmutii`
 
 This project is licensed under the MIT License.
 
-Credits of the idea goes to [
 
-Fatih Kadir Akın](https://github.com/f). he is a cool guy. thanks for the idea!
+
+Credits of the idea goes to [tih Kadir Akın](https://github.com/f). he is a cool guy. thanks for the idea!
