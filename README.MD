@@ -1,5 +1,5 @@
 # Abdlmu'tii CLI
-
+<a href="https://discord.gg/8UqPNbeYBv"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a><br>
 This is a command-line interface (CLI) that provides information about the developer Abdlmu'tii. By running `npx abdlmutii` in your terminal, you can view Abdlmu'tii's bio, skills, and contact information.
 
 ## Installation
